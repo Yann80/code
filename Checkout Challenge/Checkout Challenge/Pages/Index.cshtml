@@ -1,0 +1,33 @@
+﻿@page
+@model Checkout.IndexModel
+
+<html>
+<head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+    <script src="~/js/script.js" type="text/javascript"></script>
+</head>
+<body>
+    <h1>Shopping Cart</h1>
+    <div id="cart-content">
+
+    </div>
+    <hr />
+    <h1>Product List</h1>
+    <table>
+        @foreach (var product in Model.ProductList)
+        {
+        <tr>
+            <td>@product.ProductName</td>
+            <td>
+                <form action="javascript:void(0);" method="POST" onsubmit="buttonClick('@Html.Raw(product.ProductID)')">
+                    <input type="submit" id="add-tocart-@Html.Raw(product.ProductID)" value="Add to shopping cart">
+                </form>
+            </td>
+        </tr>
+        }
+    </table>
+    <form action="javascript:void(0);" method="POST" onsubmit='clearCart();'>
+        <input type="submit" id="clear-cart" value="Clear">
+    </form>
+</body>
+</html>

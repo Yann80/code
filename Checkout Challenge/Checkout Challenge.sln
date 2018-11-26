@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkout Challenge", "Checkout Challenge\Checkout Challenge.csproj", "{DE4B73B4-2EDA-4768-B6CE-21C4D5F20BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4B73B4-2EDA-4768-B6CE-21C4D5F20BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4B73B4-2EDA-4768-B6CE-21C4D5F20BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4B73B4-2EDA-4768-B6CE-21C4D5F20BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4B73B4-2EDA-4768-B6CE-21C4D5F20BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA21F99C-269C-4685-8B4F-D7A9491242F3}
+	EndGlobalSection
+EndGlobal

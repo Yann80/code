@@ -1,0 +1,23 @@
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout Challenge.csprojAssemblyReference.cache
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout Challenge.RazorAssemblyInfo.cache
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout Challenge.RazorAssemblyInfo.cs
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout Challenge.AssemblyInfoInputs.cache
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout Challenge.AssemblyInfo.cs
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout Challenge.RazorTargetAssemblyInfo.cache
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\bin\Debug\netcoreapp2.1\Checkout.deps.json
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\bin\Debug\netcoreapp2.1\Checkout.runtimeconfig.json
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\bin\Debug\netcoreapp2.1\Checkout.runtimeconfig.dev.json
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\bin\Debug\netcoreapp2.1\Checkout.dll
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\bin\Debug\netcoreapp2.1\Checkout.pdb
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout.dll
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout.pdb
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\bin\Debug\netcoreapp2.1\Checkout.Views.dll
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\bin\Debug\netcoreapp2.1\Checkout.Views.pdb
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout.TagHelpers.input.cache
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout.TagHelpers.output.cache
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout Challenge.RazorCoreGenerate.cache
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout Challenge.RazorTargetAssemblyInfo.cs
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout.Views.pdb
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Checkout Challenge.csproj.CopyComplete
+C:\Users\Yann\source\repos\Checkout Challenge\Checkout Challenge\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs

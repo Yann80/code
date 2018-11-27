@@ -1,11 +1,12 @@
 Introduction
-
+==============
 The API uses a model, productdetails.cs and aspnet.core to implement some basics api calls in productdetailscontroller.cs.
  A Razor page, index.cshml is used to display the results of these api calls.
  A client side library has been developed in jquery (script.js) to implement the web api.
 The data is stored in memory via a data context implemented from entityframeworkcore.
 
 Web API
+==============
 The API is accessible via /api/productdetails and comprises of the following methods:-
 api/ProductDetails (GET)
 This call returns all the product that have been added to the data context.
@@ -17,7 +18,7 @@ api/ProductDetails/id (DELETE)
 This method takes as input a productid which is removed from the data context.
 
 Client Library
-
+==============
 List of Functions: -
 
 buttonClick(productid)
@@ -40,6 +41,7 @@ getCartContent()
 Retrieve all the ojects from the data context in json format which in turn can be processed client side for representation
 
 Testing
+==============
 The web api can be tested locally by running the solution (press F5) in visual studio. The page is simple and intuitive.
 
  

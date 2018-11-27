@@ -25,7 +25,9 @@ It determines what web api that need to be called depending on the label of the 
 
 addItem(productid)
 Add the current product passed as parameter to the shopping cart. Product quantity was not implemented due to time constraint. A property can be used in the product model which stores the quantity. Instead of a guid an object build in json can be passed to the web method which will have all the information required
+
 var product = {  productId : "<Guid>", quantity : <qty> };
+ 
 One point that need to be thought around is how to read the correct textbox field with quantity when adding the product to the shopping cart
 
 deleteItem(id)
